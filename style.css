@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(240, 235, 88);
+}
+header{
+    margin-left: 117px;
+    margin-right: 117px;
+
+}
+header h1{
+    background-color: antiquewhite;
+    /* margin-left: 117px;
+    margin-right: 117px; */
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border-radius: 25px;
+}
+header p{
+    text-align: end;
+}
+header a{
+    text-align: end;
+}
+
+.battery-container{
+    margin-left: 117px;
+    margin-right: 117px;
+}
+
+
